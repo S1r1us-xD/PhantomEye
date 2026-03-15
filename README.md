@@ -172,7 +172,7 @@ The framework covers the complete attack surface: network infrastructure, web ap
 ### Clone and Install
 
 ```bash
-git clone https://github.com/s1r1us/phantomeye
+git clone https://github.com/S1r1us-xD/PhantomEye.git
 cd PhantomEye
 pip install -e . --break-system-packages
 ```
