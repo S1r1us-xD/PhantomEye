@@ -25,7 +25,7 @@ class Engine:
             f"{c(Colors.RESET)}"
         )
         print(
-            f"{c(Colors.GREEN)}  "
+            f"{c(Colors.BLUE)}  "
             f"Hybrid Vulnerability Assessment Framework  "
             f"v{Settings.VERSION} "
             f"{c(Colors.RESET)}\n"
